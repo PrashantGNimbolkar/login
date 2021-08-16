@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://images.hdqwalls.com/wallpapers/mixed-colors-abstract-4k-v6.jpg");
+    background-size: cover;
+}
+#bodyiner1{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 15%;
+    /* border: 2px solid black; */
+    background-image: url("https://images.hdqwalls.com/wallpapers/mixed-colors-abstract-4k-v6.jpg");
+    background-size: cover;
+}
+#bodyiner2{
+    height: 65vh;
+    background-color: #25263e;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+
+
+}
+#clr{
+    width: 40%; 
+    text-align: center; 
+    margin-left: 30%;
+    margin-top: 10%;
+}
+table input{
+    background: transparent;
+    height: 30px;
+    border-radius: 50px;
+    border: 2px solid rgb(60, 60, 128);;
+    margin: 5px;
+}
+
+#sub{
+    margin-top: 5%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    background: transparent;
+    color: wheat;
+    border: 2px solid rgb(67, 182, 67);
+    
+}
+#reg{
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    background: transparent;
+    color: wheat;
+    border: 2px solid rgb(67, 182, 67);    
+}
+table b{
+    color: rgb(199, 199, 133);
+}
